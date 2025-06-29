@@ -1,8 +1,8 @@
 # 🤖 Maikers - Turn Ideas into Value
 
 <div align="center">
-  <img src="branding/logo/logo.png" alt="Maikers Logo" width="200"/>
-  
+  <img src="https://github.com/MaikersHQ/branding/blob/main/logo/logo.png?raw=true" alt="Maikers Logo" width="200"/>
+
   [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
   [![Solana](https://img.shields.io/badge/Solana-9945FF?logo=solana&logoColor=white)](https://solana.com/)
   [![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)](https://nextjs.org/)
