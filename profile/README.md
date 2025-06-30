@@ -29,7 +29,7 @@ Decentralized staking protocol that enables users to stake Maikers NFTs and earn
 
 ### 🤖 [AIP](https://github.com/maikersHQ/aip)
 
-The **AI Platform** that transforms how humans and AI collaborate to create value. Deploy autonomous **Agent Networks** that execute sophisticated **Workflows** seamlessly - spanning market research, trading automation, content creation, and decentralized governance. Create intelligent organizations where human vision drives AI execution, generating sustainable revenue through coordinated agent ecosystems and transparent operational frameworks.
+The **AI Platform** that transforms how humans and AI collaborate to create value. Deploy autonomous **Agent Networks** that execute sophisticated **Workflows** seamlessly - spanning market research, trading automation, content creation, and decentralized governance.
 
 ### 🌐 [WebApp](https://github.com/MaikersHQ/webapp)
 
