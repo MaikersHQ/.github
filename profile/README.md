@@ -50,7 +50,7 @@ Comprehensive developer resources including API reference, guides, SDK documenta
 
 ### 🪬 [NFT](https://github.com/MaikersHQ/nft)
 
-Unique digital collectibles that represent membership in the Maikers ecosystem. Each NFT grants access to exclusive features, staking rewards, and governance rights within the AI Network State.
+Unique digital collectibles that represent membership in the Maikers ecosystem. Each NFT grants access to exclusive features, staking rewards, and governance rights within the Maikers Ecosystem.
 
 ### 🎨 [Branding](https://github.com/MaikersHQ/branding)
 
