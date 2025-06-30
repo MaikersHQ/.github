@@ -3,10 +3,11 @@
 <div align="center">
   <img src="https://github.com/MaikersHQ/branding/blob/main/logo/logo.png?raw=true" alt="Maikers Logo" width="200"/>
 
-  [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-  [![Solana](https://img.shields.io/badge/Solana-9945FF?logo=solana&logoColor=white)](https://solana.com/)
-  [![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)](https://nextjs.org/)
-  [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Solana](https://img.shields.io/badge/Solana-9945FF?logo=solana&logoColor=white)](https://solana.com/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
+
 </div>
 
 <div align="center">
@@ -28,11 +29,11 @@ Decentralized staking protocol that enables users to stake Maikers NFTs and earn
 
 ### 🤖 [AIP](https://github.com/maikersHQ/aip)
 
-The core **AI Network State** that transforms how communities build and govern together. Create autonomous organizations where humans and AI agents collaborate to solve real problems, make collective decisions, and share value through decentralized workflows.
+The **AI Platform** that transforms how humans and AI collaborate to create value. Deploy autonomous **Agent Networks** that execute sophisticated **Workflows** seamlessly - spanning market research, trading automation, content creation, and decentralized governance. Create intelligent organizations where human vision drives AI execution, generating sustainable revenue through coordinated agent ecosystems and transparent operational frameworks.
 
 ### 🌐 [WebApp](https://github.com/MaikersHQ/webapp)
 
-Your **command center** for building the future. Design powerful AI-driven workflows with visual tools, automate Web3 operations, and collaborate with AI agents to turn ideas into reality - _no coding required_.
+Your **command center** for building the future. Design powerful AI-driven workflows with visual tools, automate Web3 operations, and collaborate with AI agents to turn ideas into reality - _no coding required_. **Agile project-oriented** interface that organizes your work into manageable initiatives.
 
 ### 📱 [Mobile](https://github.com/MaikersHQ/mobile)
 
